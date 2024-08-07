@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>         
-        <remote name="gh-pg" fetch="https://github.com/isaiahplayground" revision="fourteen" />
+        <remote name="gh-pg" fetch="https://github.com/isaiahplayground" />
         <remote name="gh" fetch="https://github.com" />
-        <remote name="gl" fetch="https://gitlab.com" />
           
-        <project remote="gh-pg" name="device_xiaomi_lisa" path="device/xiaomi/lisa" />
-        <project remote="gl" name="isaiahscape/vendor_xiaomi_lisa" path="vendor/xiaomi/lisa" revision="fourteen" />
+        <project remote="gh-pg" name="android_device_xiaomi_lisa" path="device/xiaomi/lisa" revision="rising"/>
+        <project remote="gh-pg" name="android_device_xiaomi_sm8350-common" path="device/xiaomi/sm8350-common" revision="lineage-21.0" />
+        <project remote="gh-pg" name="proprietary_vendor_xiaomi_lisa" path="vendor/xiaomi/lisa" revision="lineage-21.0" />
+        <project remote="gh-pg" name="proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="lineage-21.0" />
         <project remote="gh-pg" name="vendor_xiaomi_camera-lisa" path="vendor/xiaomi/camera" />
-        <project remote="gh-pg" name="kernel_xiaomi_lisa" path="kernel/xiaomi/lisa" />
+        <project remote="gh-pg" name="android_kernel_xiaomi_lisa" path="kernel/xiaomi/lisa" />
         <project remote="gh" name="PixelOS-AOSP/hardware_xiaomi" path="hardware/xiaomi" revision="fourteen" />
 </manifest>
