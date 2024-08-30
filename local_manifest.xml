@@ -3,7 +3,7 @@
         <remote name="gh-pg" fetch="https://github.com/isaiahplayground" />
         <remote name="gh" fetch="https://github.com" />
           
-        <project remote="gh-pg" name="android_device_xiaomi_lisa" path="device/xiaomi/lisa" revision="droidx"/>
+        <project remote="gh-pg" name="android_device_xiaomi_lisa" path="device/xiaomi/lisa" revision="fourteen"/>
         <project remote="gh-pg" name="android_device_xiaomi_sm8350-common" path="device/xiaomi/sm8350-common" revision="lineage-21" />
         <project remote="gh-pg" name="proprietary_vendor_xiaomi_lisa" path="vendor/xiaomi/lisa" revision="lineage-21" />
         <project remote="gh-pg" name="proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" revision="lineage-21" />
