@@ -1,4 +1,4 @@
 # local_manifest
-For Xiaomi 11 Lite 5G NE (lisa) - awakenOS
+For Poco F3/Xiaomi 11X/Redmi K40 - EvolutionX
 
-Note: All tags we're got * for initialization.
+Note: All tags got * for initialization.
