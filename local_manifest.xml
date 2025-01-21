@@ -3,7 +3,6 @@
         <remote name="gh-pg" fetch="https://github.com/isaiahplayground" />
         <remote name="gh" fetch="https://github.com" />
           
-        <project remote="gh" name="511kinderheim/android_device_xiaomi_alioth" path="device/xiaomi/alioth" revision="lineage-22.1"/>
-        <project remote="gh" name="511kinderheim/android_device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" revision="lineage-22.1" />
-        <project remote="gh" name="511kinderheim/android_kernel_xiaomi_sm8250" path="kernel/xiaomi/sm8250" />
+        <project remote="gh" name="isaiahplayground/android_device_xiaomi_alioth" path="device/xiaomi/alioth" revision="lineage-22.1"/>
+        <project remote="gh" name="isaiahplayground/android_device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" revision="lineage-22.1" />
 </manifest>
