@@ -3,6 +3,6 @@
         <remote name="gh-pg" fetch="https://github.com/thescapenetworkllc" />
         <remote name="gh" fetch="https://github.com" />
           
-        <project remote="gh-pg" name="android_device_xiaomi_alioth" path="device/xiaomi/alioth" revision="lineage-22.1"/>
-        <project remote="gh-pg" name="android_device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" revision="lineage-22.1" />
+        <project remote="gh-pg" name="android_device_xiaomi_alioth" path="device/xiaomi/alioth" revision="pixel"/>
+        <project remote="gh-pg" name="android_device_xiaomi_sm8250-common" path="device/xiaomi/sm8250-common" revision="pixel" />
 </manifest>
